@@ -1,0 +1,986 @@
+src/com/library_automation/classes/Author.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Author.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Author.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Author.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Author.java:7:	fieldCommentRequirement Required
+src/com/library_automation/classes/Author.java:9:	Document empty constructor
+src/com/library_automation/classes/Author.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:13:	Avoid variables with short names like id
+src/com/library_automation/classes/Author.java:13:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:17:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:17:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:17:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:23:	Avoid variables with short names like id
+src/com/library_automation/classes/Author.java:23:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:23:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:23:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:23:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:34:	Avoid variables with short names like id
+src/com/library_automation/classes/Author.java:34:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:38:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:42:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:42:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:46:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:50:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/Author.java:50:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Author.java:55:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:3:	Avoid short class names like Book
+src/com/library_automation/classes/Book.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Book.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Book.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:7:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:8:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:9:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:10:	fieldCommentRequirement Required
+src/com/library_automation/classes/Book.java:12:	Document empty constructor
+src/com/library_automation/classes/Book.java:12:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:15:	Avoid variables with short names like id
+src/com/library_automation/classes/Book.java:15:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:19:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:19:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:19:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:19:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:19:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:27:	Avoid variables with short names like id
+src/com/library_automation/classes/Book.java:27:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:27:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:27:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:27:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:27:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:27:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:36:	Avoid variables with short names like id
+src/com/library_automation/classes/Book.java:36:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	Parameter 'status' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:36:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:46:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:50:	Avoid variables with short names like id
+src/com/library_automation/classes/Book.java:50:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:50:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:54:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:58:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:58:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:62:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:66:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:66:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:70:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:74:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:74:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:78:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:82:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:82:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:88:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:92:	Parameter 'status' is not assigned and could be declared final
+src/com/library_automation/classes/Book.java:92:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Book.java:97:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Category.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Category.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Category.java:6:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'category_name' is not final.
+src/com/library_automation/classes/Category.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Category.java:8:	Document empty constructor
+src/com/library_automation/classes/Category.java:8:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:11:	Avoid variables with short names like id
+src/com/library_automation/classes/Category.java:11:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:15:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'category_name' is not final.
+src/com/library_automation/classes/Category.java:15:	Parameter 'category_name' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:20:	Avoid variables with short names like id
+src/com/library_automation/classes/Category.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'category_name' is not final.
+src/com/library_automation/classes/Category.java:20:	Parameter 'category_name' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:20:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:20:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:30:	Avoid variables with short names like id
+src/com/library_automation/classes/Category.java:30:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:34:	Method names should not contain underscores
+src/com/library_automation/classes/Category.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:38:	Method names should not contain underscores
+src/com/library_automation/classes/Category.java:38:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'category_name' is not final.
+src/com/library_automation/classes/Category.java:38:	Parameter 'category_name' is not assigned and could be declared final
+src/com/library_automation/classes/Category.java:38:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Category.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Publisher.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:6:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'publisher_name' is not final.
+src/com/library_automation/classes/Publisher.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:8:	Document empty constructor
+src/com/library_automation/classes/Publisher.java:8:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:11:	Avoid variables with short names like id
+src/com/library_automation/classes/Publisher.java:11:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:15:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'publisher_name' is not final.
+src/com/library_automation/classes/Publisher.java:15:	Parameter 'publisher_name' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:20:	Avoid variables with short names like id
+src/com/library_automation/classes/Publisher.java:20:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'publisher_name' is not final.
+src/com/library_automation/classes/Publisher.java:20:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:20:	Parameter 'publisher_name' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:20:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:30:	Avoid variables with short names like id
+src/com/library_automation/classes/Publisher.java:30:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:34:	Method names should not contain underscores
+src/com/library_automation/classes/Publisher.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:38:	Method names should not contain underscores
+src/com/library_automation/classes/Publisher.java:38:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'publisher_name' is not final.
+src/com/library_automation/classes/Publisher.java:38:	Parameter 'publisher_name' is not assigned and could be declared final
+src/com/library_automation/classes/Publisher.java:38:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Publisher.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Reservation.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:7:	fieldCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:9:	Document empty constructor
+src/com/library_automation/classes/Reservation.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:13:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:13:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:19:	Avoid variables with short names like id
+src/com/library_automation/classes/Reservation.java:19:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:19:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:19:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:19:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:30:	Avoid variables with short names like id
+src/com/library_automation/classes/Reservation.java:30:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:38:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:38:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:42:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:46:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/classes/Reservation.java:46:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Reservation.java:51:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Search.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Search.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Search.java:7:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Search.java:11:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/classes/Search.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Search.java:16:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Search.java:20:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/classes/Search.java:20:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Search.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/Upload.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/Upload.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/Upload.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/Upload.java:7:	fieldCommentRequirement Required
+src/com/library_automation/classes/Upload.java:8:	fieldCommentRequirement Required
+src/com/library_automation/classes/Upload.java:10:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:14:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:14:	Parameter 'tags' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:14:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:22:	Avoid variables with short names like id
+src/com/library_automation/classes/Upload.java:22:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:22:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:22:	Parameter 'tags' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:22:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:29:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:29:	Parameter 'tags' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:29:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:29:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:36:	Avoid variables with short names like id
+src/com/library_automation/classes/Upload.java:36:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:36:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:36:	Parameter 'tags' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:36:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:36:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:44:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:48:	Avoid variables with short names like id
+src/com/library_automation/classes/Upload.java:48:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:48:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:52:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:56:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:56:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:60:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:64:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:64:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:68:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:72:	Parameter 'tags' is not assigned and could be declared final
+src/com/library_automation/classes/Upload.java:72:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/Upload.java:77:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:3:	Avoid short class names like User
+src/com/library_automation/classes/User.java:3:	headerCommentRequirement Required
+src/com/library_automation/classes/User.java:5:	Avoid variables with short names like id
+src/com/library_automation/classes/User.java:5:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:6:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:7:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:8:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:9:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:10:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:11:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:12:	Avoid using redundant field initializer for 'enabled'
+src/com/library_automation/classes/User.java:12:	fieldCommentRequirement Required
+src/com/library_automation/classes/User.java:14:	Document empty constructor
+src/com/library_automation/classes/User.java:14:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:17:	Avoid variables with short names like id
+src/com/library_automation/classes/User.java:17:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:17:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:21:	Avoid variables with short names like id
+src/com/library_automation/classes/User.java:21:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:21:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:21:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:21:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:34:	Parameter 'email' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:34:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:34:	Parameter 'password' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:34:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:34:	Parameter 'username' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:43:	Avoid variables with short names like id
+src/com/library_automation/classes/User.java:43:	Parameter 'email' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	Parameter 'password' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	Parameter 'username' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:53:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:57:	Avoid variables with short names like id
+src/com/library_automation/classes/User.java:57:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:57:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:61:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:65:	Parameter 'name' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:65:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:69:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:73:	Parameter 'surname' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:73:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:77:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:81:	Parameter 'email' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:81:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:85:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:89:	Parameter 'username' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:89:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:93:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:97:	Parameter 'password' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:97:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:101:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:105:	Parameter 'authority' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:105:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:109:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:113:	Parameter 'enabled' is not assigned and could be declared final
+src/com/library_automation/classes/User.java:113:	publicMethodCommentRequirement Required
+src/com/library_automation/classes/User.java:118:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/AuthorController.java:15:	Each class should declare at least one constructor
+src/com/library_automation/controller/AuthorController.java:15:	headerCommentRequirement Required
+src/com/library_automation/controller/AuthorController.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/AuthorController.java:18:	fieldCommentRequirement Required
+src/com/library_automation/controller/AuthorController.java:22:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/AuthorController.java:22:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/AuthorController.java:31:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/AuthorController.java:31:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/AuthorController.java:31:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/AuthorController.java:39:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/controller/AuthorController.java:39:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/AuthorController.java:39:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/BookController.java:22:	Each class should declare at least one constructor
+src/com/library_automation/controller/BookController.java:22:	headerCommentRequirement Required
+src/com/library_automation/controller/BookController.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/BookController.java:25:	fieldCommentRequirement Required
+src/com/library_automation/controller/BookController.java:28:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/BookController.java:28:	fieldCommentRequirement Required
+src/com/library_automation/controller/BookController.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/BookController.java:31:	fieldCommentRequirement Required
+src/com/library_automation/controller/BookController.java:34:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/BookController.java:34:	fieldCommentRequirement Required
+src/com/library_automation/controller/BookController.java:37:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/BookController.java:37:	fieldCommentRequirement Required
+src/com/library_automation/controller/BookController.java:40:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:40:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/BookController.java:41:	The String literal "books" appears 4 times in this file; the first occurrence is on line 41
+src/com/library_automation/controller/BookController.java:45:	The String literal "authors" appears 4 times in this file; the first occurrence is on line 45
+src/com/library_automation/controller/BookController.java:46:	The String literal "publishers" appears 4 times in this file; the first occurrence is on line 46
+src/com/library_automation/controller/BookController.java:47:	The String literal "categories" appears 4 times in this file; the first occurrence is on line 47
+src/com/library_automation/controller/BookController.java:48:	The String literal "manb" appears 4 times in this file; the first occurrence is on line 48
+src/com/library_automation/controller/BookController.java:52:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:52:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:52:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/BookController.java:64:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:64:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:64:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/BookController.java:74:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:74:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/BookController.java:74:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/BookController.java:77:	Local variable 'author' could be declared final
+src/com/library_automation/controller/BookController.java:78:	Local variable 'publisher' could be declared final
+src/com/library_automation/controller/BookController.java:79:	Local variable 'category' could be declared final
+src/com/library_automation/controller/CategoryController.java:15:	Each class should declare at least one constructor
+src/com/library_automation/controller/CategoryController.java:15:	headerCommentRequirement Required
+src/com/library_automation/controller/CategoryController.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/CategoryController.java:18:	fieldCommentRequirement Required
+src/com/library_automation/controller/CategoryController.java:22:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/CategoryController.java:22:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/CategoryController.java:31:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/CategoryController.java:31:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/CategoryController.java:31:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/CategoryController.java:40:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/controller/CategoryController.java:40:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/CategoryController.java:40:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:3:	Avoid unused imports such as 'java.io.BufferedOutputStream'
+src/com/library_automation/controller/FileUploader.java:5:	Avoid unused imports such as 'java.io.FileOutputStream'
+src/com/library_automation/controller/FileUploader.java:19:	Avoid unused imports such as 'org.apache.commons.fileupload.FileUploadException'
+src/com/library_automation/controller/FileUploader.java:27:	Each class should declare at least one constructor
+src/com/library_automation/controller/FileUploader.java:29:	Avoid unused private fields such as 'isMultipart'.
+src/com/library_automation/controller/FileUploader.java:29:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/FileUploader.java:29:	Perhaps 'isMultipart' could be replaced by a local variable.
+src/com/library_automation/controller/FileUploader.java:29:	fieldCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:30:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/FileUploader.java:30:	fieldCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:31:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/FileUploader.java:31:	Private field 'maxFileSize' could be made final; it is only initialized in the declaration or constructor.
+src/com/library_automation/controller/FileUploader.java:31:	fieldCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:32:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/FileUploader.java:32:	Private field 'maxMemSize' could be made final; it is only initialized in the declaration or constructor.
+src/com/library_automation/controller/FileUploader.java:32:	fieldCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:33:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/FileUploader.java:33:	fieldCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:36:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/FileUploader.java:37:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/controller/FileUploader.java:43:	Comment is too large: Line too long
+src/com/library_automation/controller/FileUploader.java:45:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/FileUploader.java:45:	Parameter 'response' is not assigned and could be declared final
+src/com/library_automation/controller/FileUploader.java:47:	Local variable 'session' could be declared final
+src/com/library_automation/controller/FileUploader.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/FileUploader.java:48:	System.out.println is used
+src/com/library_automation/controller/FileUploader.java:51:	Avoid unused local variables such as 'out'.
+src/com/library_automation/controller/FileUploader.java:51:	Found 'DU'-anomaly for variable 'out' (lines '51'-'55').
+src/com/library_automation/controller/FileUploader.java:51:	Local variable 'out' could be declared final
+src/com/library_automation/controller/FileUploader.java:58:	Comment is too large: Line too long
+src/com/library_automation/controller/FileUploader.java:60:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/FileUploader.java:60:	Parameter 'response' is not assigned and could be declared final
+src/com/library_automation/controller/FileUploader.java:63:	Found 'DU'-anomaly for variable 'session' (lines '63'-'116').
+src/com/library_automation/controller/FileUploader.java:63:	Local variable 'session' could be declared final
+src/com/library_automation/controller/FileUploader.java:66:	Local variable 'factory' could be declared final
+src/com/library_automation/controller/FileUploader.java:70:	Local variable 'upload' could be declared final
+src/com/library_automation/controller/FileUploader.java:74:	Local variable 'fileItems' could be declared final
+src/com/library_automation/controller/FileUploader.java:75:	Avoid variables with short names like i
+src/com/library_automation/controller/FileUploader.java:75:	Local variable 'i' could be declared final
+src/com/library_automation/controller/FileUploader.java:77:	System.out.println is used
+src/com/library_automation/controller/FileUploader.java:80:	Avoid variables with short names like fi
+src/com/library_automation/controller/FileUploader.java:80:	Local variable 'fi' could be declared final
+src/com/library_automation/controller/FileUploader.java:84:	Avoid unused local variables such as 'fieldName'.
+src/com/library_automation/controller/FileUploader.java:84:	Found 'DD'-anomaly for variable 'fieldName' (lines '84'-'84').
+src/com/library_automation/controller/FileUploader.java:84:	Found 'DU'-anomaly for variable 'fieldName' (lines '84'-'116').
+src/com/library_automation/controller/FileUploader.java:84:	Local variable 'fieldName' could be declared final
+src/com/library_automation/controller/FileUploader.java:85:	Local variable 'fileName' could be declared final
+src/com/library_automation/controller/FileUploader.java:86:	Avoid unused local variables such as 'contentType'.
+src/com/library_automation/controller/FileUploader.java:86:	Found 'DD'-anomaly for variable 'contentType' (lines '86'-'86').
+src/com/library_automation/controller/FileUploader.java:86:	Found 'DU'-anomaly for variable 'contentType' (lines '86'-'116').
+src/com/library_automation/controller/FileUploader.java:86:	Local variable 'contentType' could be declared final
+src/com/library_automation/controller/FileUploader.java:87:	Avoid unused local variables such as 'isInMemory'.
+src/com/library_automation/controller/FileUploader.java:87:	Found 'DD'-anomaly for variable 'isInMemory' (lines '87'-'87').
+src/com/library_automation/controller/FileUploader.java:87:	Found 'DU'-anomaly for variable 'isInMemory' (lines '87'-'116').
+src/com/library_automation/controller/FileUploader.java:87:	Local variable 'isInMemory' could be declared final
+src/com/library_automation/controller/FileUploader.java:88:	Avoid unused local variables such as 'sizeInBytes'.
+src/com/library_automation/controller/FileUploader.java:88:	Found 'DD'-anomaly for variable 'sizeInBytes' (lines '88'-'88').
+src/com/library_automation/controller/FileUploader.java:88:	Found 'DU'-anomaly for variable 'sizeInBytes' (lines '88'-'116').
+src/com/library_automation/controller/FileUploader.java:88:	Local variable 'sizeInBytes' could be declared final
+src/com/library_automation/controller/FileUploader.java:92:	String.indexOf(char) is faster than String.indexOf(String).
+src/com/library_automation/controller/FileUploader.java:93:	Avoid instantiating new objects inside loops
+src/com/library_automation/controller/FileUploader.java:93:	String.indexOf(char) is faster than String.indexOf(String).
+src/com/library_automation/controller/FileUploader.java:97:	Avoid instantiating new objects inside loops
+src/com/library_automation/controller/FileUploader.java:97:	String.indexOf(char) is faster than String.indexOf(String).
+src/com/library_automation/controller/FileUploader.java:100:	System.out.println is used
+src/com/library_automation/controller/FileUploader.java:103:	System.out.println is used
+src/com/library_automation/controller/FileUploader.java:110:	Avoid catching generic exceptions such as NullPointerException, RuntimeException, Exception in try-catch block
+src/com/library_automation/controller/FileUploader.java:111:	System.out.println is used
+src/com/library_automation/controller/FileUploader.java:114:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/controller/LoginController.java:13:	Each class should declare at least one constructor
+src/com/library_automation/controller/LoginController.java:13:	headerCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/LoginController.java:16:	fieldCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:20:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:25:	Parameter 'map' is not assigned and could be declared final
+src/com/library_automation/controller/LoginController.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:26:	The String literal "message" appears 4 times in this file; the first occurrence is on line 26
+src/com/library_automation/controller/LoginController.java:32:	Parameter 'map' is not assigned and could be declared final
+src/com/library_automation/controller/LoginController.java:32:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:39:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:44:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:50:	Parameter 'map' is not assigned and could be declared final
+src/com/library_automation/controller/LoginController.java:50:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/controller/LoginController.java:50:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/LoginController.java:53:	System.out.println is used
+src/com/library_automation/controller/LoginController.java:56:	A method should have only one exit point, and that should be the last statement in the method
+src/com/library_automation/controller/PublisherController.java:15:	Each class should declare at least one constructor
+src/com/library_automation/controller/PublisherController.java:15:	headerCommentRequirement Required
+src/com/library_automation/controller/PublisherController.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/PublisherController.java:18:	fieldCommentRequirement Required
+src/com/library_automation/controller/PublisherController.java:22:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/PublisherController.java:22:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/PublisherController.java:30:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/PublisherController.java:30:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/PublisherController.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/PublisherController.java:39:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/PublisherController.java:39:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/controller/PublisherController.java:39:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/ReservationController.java:18:	Each class should declare at least one constructor
+src/com/library_automation/controller/ReservationController.java:18:	headerCommentRequirement Required
+src/com/library_automation/controller/ReservationController.java:21:	Avoid excessively long variable names like reservationService
+src/com/library_automation/controller/ReservationController.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/ReservationController.java:21:	fieldCommentRequirement Required
+src/com/library_automation/controller/ReservationController.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/ReservationController.java:24:	fieldCommentRequirement Required
+src/com/library_automation/controller/ReservationController.java:27:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/ReservationController.java:27:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/ReservationController.java:27:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/ReservationController.java:29:	Local variable 'session' could be declared final
+src/com/library_automation/controller/ReservationController.java:30:	Local variable 'username' could be declared final
+src/com/library_automation/controller/ReservationController.java:30:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/ReservationController.java:31:	System.out.println is used
+src/com/library_automation/controller/ReservationController.java:32:	Local variable 'authUser' could be declared final
+src/com/library_automation/controller/ReservationController.java:33:	Local variable 'reservation' could be declared final
+src/com/library_automation/controller/ReservationController.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/SearchController.java:15:	Each class should declare at least one constructor
+src/com/library_automation/controller/SearchController.java:15:	headerCommentRequirement Required
+src/com/library_automation/controller/SearchController.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/SearchController.java:18:	fieldCommentRequirement Required
+src/com/library_automation/controller/SearchController.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/SearchController.java:21:	fieldCommentRequirement Required
+src/com/library_automation/controller/SearchController.java:25:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/SearchController.java:25:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/SearchController.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/SearchController.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/controller/SearchController.java:27:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/controller/SearchController.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:3:	Avoid unused imports such as 'java.io.File'
+src/com/library_automation/controller/UploadController.java:9:	Avoid unused imports such as 'org.apache.tomcat.util.net.SecureNio2Channel.ApplicationBufferHandler'
+src/com/library_automation/controller/UploadController.java:15:	Avoid duplicate imports such as 'com.library_automation.classes.Upload'
+src/com/library_automation/controller/UploadController.java:20:	Each class should declare at least one constructor
+src/com/library_automation/controller/UploadController.java:20:	headerCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/UploadController.java:22:	fieldCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/UploadController.java:25:	fieldCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:28:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:35:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/UploadController.java:35:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/UploadController.java:35:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:37:	Local variable 'pdfName' could be declared final
+src/com/library_automation/controller/UploadController.java:44:	Parameter 'req' is not assigned and could be declared final
+src/com/library_automation/controller/UploadController.java:44:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UploadController.java:46:	Local variable 'session' could be declared final
+src/com/library_automation/controller/UploadController.java:47:	Local variable 'fileName' could be declared final
+src/com/library_automation/controller/UploadController.java:47:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/UploadController.java:48:	Local variable 'authUsersUserName' could be declared final
+src/com/library_automation/controller/UploadController.java:48:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/UploadController.java:49:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/UploadController.java:49:	System.out.println is used
+src/com/library_automation/controller/UploadController.java:52:	Local variable 'tags' could be declared final
+src/com/library_automation/controller/UploadController.java:54:	Local variable 'upload' could be declared final
+src/com/library_automation/controller/UploadController.java:60:	System.out.println is used
+src/com/library_automation/controller/UploadController.java:61:	System.out.println is used
+src/com/library_automation/controller/UserController.java:3:	Avoid unused imports such as 'java.io.IOException'
+src/com/library_automation/controller/UserController.java:7:	Avoid unused imports such as 'javax.servlet.RequestDispatcher'
+src/com/library_automation/controller/UserController.java:8:	Avoid unused imports such as 'javax.servlet.ServletException'
+src/com/library_automation/controller/UserController.java:22:	Each class should declare at least one constructor
+src/com/library_automation/controller/UserController.java:22:	headerCommentRequirement Required
+src/com/library_automation/controller/UserController.java:24:	Avoid using implementation types like 'ArrayList'; use the interface instead
+src/com/library_automation/controller/UserController.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/UserController.java:24:	fieldCommentRequirement Required
+src/com/library_automation/controller/UserController.java:27:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/controller/UserController.java:27:	fieldCommentRequirement Required
+src/com/library_automation/controller/UserController.java:32:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:32:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:32:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:33:	Local variable 'session' could be declared final
+src/com/library_automation/controller/UserController.java:34:	System.out.println is used
+src/com/library_automation/controller/UserController.java:34:	The String literal "username" appears 4 times in this file; the first occurrence is on line 34
+src/com/library_automation/controller/UserController.java:36:	Local variable 'user' could be declared final
+src/com/library_automation/controller/UserController.java:37:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/controller/UserController.java:38:	System.out.println is used
+src/com/library_automation/controller/UserController.java:47:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:47:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:55:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:55:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:56:	Local variable 'users' could be declared final
+src/com/library_automation/controller/UserController.java:62:	Parameter 'map' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:62:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:62:	Parameter 'response' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:62:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:62:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:63:	Local variable 'session' could be declared final
+src/com/library_automation/controller/UserController.java:64:	System.out.println is used
+src/com/library_automation/controller/UserController.java:65:	Avoid variables with short names like id
+src/com/library_automation/controller/UserController.java:65:	Local variable 'id' could be declared final
+src/com/library_automation/controller/UserController.java:67:	System.out.println is used
+src/com/library_automation/controller/UserController.java:69:	System.out.println is used
+src/com/library_automation/controller/UserController.java:73:	Local variable 'authUser' could be declared final
+src/com/library_automation/controller/UserController.java:83:	Parameter 'model' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:83:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:83:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:85:	Avoid variables with short names like id
+src/com/library_automation/controller/UserController.java:85:	Local variable 'id' could be declared final
+src/com/library_automation/controller/UserController.java:87:	Local variable 'users' could be declared final
+src/com/library_automation/controller/UserController.java:93:	Parameter 'map' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:93:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:93:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/controller/UserController.java:93:	publicMethodCommentRequirement Required
+src/com/library_automation/controller/UserController.java:94:	Comment is too large: Too many lines
+src/com/library_automation/controller/UserController.java:103:	System.out.println is used
+src/com/library_automation/controller/UserController.java:106:	Local variable 'users' could be declared final
+src/com/library_automation/dao/AuthorMapper.java:10:	Each class should declare at least one constructor
+src/com/library_automation/dao/AuthorMapper.java:10:	headerCommentRequirement Required
+src/com/library_automation/dao/AuthorMapper.java:13:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/AuthorMapper.java:13:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/AuthorMapper.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:17:	Avoid unused imports such as 'com.library_automation.classes.Category'
+src/com/library_automation/dao/AuthorsDAO.java:21:	Each class should declare at least one constructor
+src/com/library_automation/dao/AuthorsDAO.java:21:	headerCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:23:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/AuthorsDAO.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/AuthorsDAO.java:23:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/AuthorsDAO.java:23:	fieldCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/AuthorsDAO.java:24:	fieldCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/AuthorsDAO.java:25:	fieldCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:28:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/AuthorsDAO.java:28:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:40:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/dao/AuthorsDAO.java:40:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:42:	Local variable 'params' could be declared final
+src/com/library_automation/dao/AuthorsDAO.java:47:	Avoid variables with short names like id
+src/com/library_automation/dao/AuthorsDAO.java:47:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/AuthorsDAO.java:47:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/AuthorsDAO.java:48:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/AuthorsDAO.java:48:	Local variable 'param' could be declared final
+src/com/library_automation/dao/BookMapper.java:13:	Each class should declare at least one constructor
+src/com/library_automation/dao/BookMapper.java:13:	headerCommentRequirement Required
+src/com/library_automation/dao/BookMapper.java:16:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/BookMapper.java:16:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/BookMapper.java:16:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:12:	Avoid unused imports such as 'org.springframework.beans.factory.annotation.Qualifier'
+src/com/library_automation/dao/BooksDAO.java:14:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource'
+src/com/library_automation/dao/BooksDAO.java:16:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.SqlParameterSource'
+src/com/library_automation/dao/BooksDAO.java:22:	Each class should declare at least one constructor
+src/com/library_automation/dao/BooksDAO.java:22:	headerCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:24:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/BooksDAO.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/BooksDAO.java:24:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/BooksDAO.java:24:	fieldCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/BooksDAO.java:25:	fieldCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/BooksDAO.java:26:	fieldCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:27:	Avoid unused private fields such as 'conn'.
+src/com/library_automation/dao/BooksDAO.java:27:	fieldCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:28:	Avoid unused private fields such as 'ps'.
+src/com/library_automation/dao/BooksDAO.java:28:	Avoid variables with short names like ps
+src/com/library_automation/dao/BooksDAO.java:28:	fieldCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:31:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/BooksDAO.java:31:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:37:	Avoid variables with short names like id
+src/com/library_automation/dao/BooksDAO.java:37:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/BooksDAO.java:37:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:47:	Avoid variables with short names like id
+src/com/library_automation/dao/BooksDAO.java:47:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/BooksDAO.java:47:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:48:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/BooksDAO.java:48:	Local variable 'params' could be declared final
+src/com/library_automation/dao/BooksDAO.java:54:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/dao/BooksDAO.java:54:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:56:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/BooksDAO.java:56:	Local variable 'params' could be declared final
+src/com/library_automation/dao/BooksDAO.java:59:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:59:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:60:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:60:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:61:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:65:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/dao/BooksDAO.java:65:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/BooksDAO.java:67:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/BooksDAO.java:67:	Local variable 'params' could be declared final
+src/com/library_automation/dao/BooksDAO.java:70:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:70:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:71:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:71:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:72:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/BooksDAO.java:72:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/CategoriesDAO.java:19:	Each class should declare at least one constructor
+src/com/library_automation/dao/CategoriesDAO.java:19:	headerCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:21:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/CategoriesDAO.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/CategoriesDAO.java:21:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/CategoriesDAO.java:21:	fieldCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/CategoriesDAO.java:22:	fieldCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/CategoriesDAO.java:23:	fieldCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:26:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/CategoriesDAO.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:32:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:37:	Avoid variables with short names like id
+src/com/library_automation/dao/CategoriesDAO.java:37:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/CategoriesDAO.java:37:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:38:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/CategoriesDAO.java:38:	Local variable 'param' could be declared final
+src/com/library_automation/dao/CategoriesDAO.java:44:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/dao/CategoriesDAO.java:44:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/CategoriesDAO.java:45:	Local variable 'params' could be declared final
+src/com/library_automation/dao/CategoryMapper.java:10:	Each class should declare at least one constructor
+src/com/library_automation/dao/CategoryMapper.java:10:	headerCommentRequirement Required
+src/com/library_automation/dao/CategoryMapper.java:13:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/CategoryMapper.java:13:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/CategoryMapper.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublisherMapper.java:10:	Each class should declare at least one constructor
+src/com/library_automation/dao/PublisherMapper.java:10:	headerCommentRequirement Required
+src/com/library_automation/dao/PublisherMapper.java:13:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/PublisherMapper.java:13:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/PublisherMapper.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:19:	Each class should declare at least one constructor
+src/com/library_automation/dao/PublishersDAO.java:19:	headerCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:21:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/PublishersDAO.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/PublishersDAO.java:21:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/PublishersDAO.java:21:	fieldCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:22:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/PublishersDAO.java:22:	fieldCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/PublishersDAO.java:23:	fieldCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:27:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/PublishersDAO.java:27:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:33:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:38:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/dao/PublishersDAO.java:38:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:40:	Local variable 'params' could be declared final
+src/com/library_automation/dao/PublishersDAO.java:45:	Avoid variables with short names like id
+src/com/library_automation/dao/PublishersDAO.java:45:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/PublishersDAO.java:45:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/PublishersDAO.java:46:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/PublishersDAO.java:46:	Local variable 'param' could be declared final
+src/com/library_automation/dao/ReservationMapper.java:3:	Avoid unused imports such as 'java.awt.print.Book'
+src/com/library_automation/dao/ReservationMapper.java:12:	Each class should declare at least one constructor
+src/com/library_automation/dao/ReservationMapper.java:12:	headerCommentRequirement Required
+src/com/library_automation/dao/ReservationMapper.java:15:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/ReservationMapper.java:15:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/ReservationMapper.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:16:	Each class should declare at least one constructor
+src/com/library_automation/dao/ReservationsDAO.java:16:	headerCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:18:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/ReservationsDAO.java:18:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/ReservationsDAO.java:18:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/ReservationsDAO.java:18:	fieldCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:19:	Avoid unused private fields such as 'template'.
+src/com/library_automation/dao/ReservationsDAO.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/ReservationsDAO.java:19:	Perhaps 'template' could be replaced by a local variable.
+src/com/library_automation/dao/ReservationsDAO.java:19:	fieldCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/ReservationsDAO.java:20:	fieldCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:23:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/ReservationsDAO.java:23:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:30:	Parameter 'reservation' is not assigned and could be declared final
+src/com/library_automation/dao/ReservationsDAO.java:30:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/ReservationsDAO.java:32:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/ReservationsDAO.java:32:	Local variable 'params' could be declared final
+src/com/library_automation/dao/ReservationsDAO.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/ReservationsDAO.java:34:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/ReservationsDAO.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/ReservationsDAO.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/ReservationsDAO.java:43:	Document empty method
+src/com/library_automation/dao/ReservationsDAO.java:43:	Parameter 'reservation' is not assigned and could be declared final
+src/com/library_automation/dao/ReservationsDAO.java:43:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:3:	Avoid unused imports such as 'java.util.HashMap'
+src/com/library_automation/dao/SearchDAO.java:5:	Avoid unused imports such as 'java.util.Map'
+src/com/library_automation/dao/SearchDAO.java:11:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource'
+src/com/library_automation/dao/SearchDAO.java:12:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.SqlParameterSource'
+src/com/library_automation/dao/SearchDAO.java:18:	Each class should declare at least one constructor
+src/com/library_automation/dao/SearchDAO.java:18:	headerCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:20:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/SearchDAO.java:20:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/SearchDAO.java:20:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/SearchDAO.java:20:	fieldCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:21:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/SearchDAO.java:21:	fieldCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:24:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/SearchDAO.java:24:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:29:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/dao/SearchDAO.java:29:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:36:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/dao/SearchDAO.java:36:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:44:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/dao/SearchDAO.java:44:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/SearchDAO.java:52:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/dao/SearchDAO.java:52:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UploadMapper.java:9:	Avoid unused imports such as 'com.library_automation.classes.User'
+src/com/library_automation/dao/UploadMapper.java:11:	Each class should declare at least one constructor
+src/com/library_automation/dao/UploadMapper.java:11:	headerCommentRequirement Required
+src/com/library_automation/dao/UploadMapper.java:14:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/UploadMapper.java:14:	Parameter 'res' is not assigned and could be declared final
+src/com/library_automation/dao/UploadMapper.java:14:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:11:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.BeanPropertySqlParameterSource'
+src/com/library_automation/dao/UploadsDAO.java:13:	Avoid unused imports such as 'org.springframework.jdbc.core.namedparam.SqlParameterSource'
+src/com/library_automation/dao/UploadsDAO.java:15:	Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestMapping'
+src/com/library_automation/dao/UploadsDAO.java:16:	Avoid unused imports such as 'org.springframework.web.bind.annotation.RequestMethod'
+src/com/library_automation/dao/UploadsDAO.java:21:	Each class should declare at least one constructor
+src/com/library_automation/dao/UploadsDAO.java:21:	headerCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:23:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/UploadsDAO.java:23:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UploadsDAO.java:23:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/UploadsDAO.java:23:	fieldCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UploadsDAO.java:24:	fieldCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UploadsDAO.java:25:	fieldCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:28:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/UploadsDAO.java:28:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:36:	Avoid variables with short names like id
+src/com/library_automation/dao/UploadsDAO.java:36:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/UploadsDAO.java:36:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:40:	Parameter 'upload' is not assigned and could be declared final
+src/com/library_automation/dao/UploadsDAO.java:40:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UploadsDAO.java:42:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/UploadsDAO.java:42:	Local variable 'params' could be declared final
+src/com/library_automation/dao/UploadsDAO.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/UploadsDAO.java:44:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/dao/UploadsDAO.java:51:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/dao/UploadsDAO.java:51:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UserMapper.java:10:	Each class should declare at least one constructor
+src/com/library_automation/dao/UserMapper.java:10:	headerCommentRequirement Required
+src/com/library_automation/dao/UserMapper.java:13:	Avoid variables with short names like rs
+src/com/library_automation/dao/UserMapper.java:13:	Parameter 'arg1' is not assigned and could be declared final
+src/com/library_automation/dao/UserMapper.java:13:	Parameter 'rs' is not assigned and could be declared final
+src/com/library_automation/dao/UserMapper.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:22:	Each class should declare at least one constructor
+src/com/library_automation/dao/UsersDAO.java:22:	headerCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:24:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UsersDAO.java:24:	fieldCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:25:	Avoid unused private fields such as 'dataSource'.
+src/com/library_automation/dao/UsersDAO.java:25:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UsersDAO.java:25:	Perhaps 'dataSource' could be replaced by a local variable.
+src/com/library_automation/dao/UsersDAO.java:25:	fieldCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:26:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/dao/UsersDAO.java:26:	fieldCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:29:	Avoid unused private fields such as 'passwordEncoder'.
+src/com/library_automation/dao/UsersDAO.java:29:	fieldCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:32:	Parameter 'dataSource' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:32:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:46:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:46:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:47:	System.out.println is used
+src/com/library_automation/dao/UsersDAO.java:48:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/UsersDAO.java:48:	Local variable 'params' could be declared final
+src/com/library_automation/dao/UsersDAO.java:64:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:64:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:65:	Found 'DU'-anomaly for variable 'result' (lines '65'-'91').
+src/com/library_automation/dao/UsersDAO.java:65:	Local variable 'result' could be declared final
+src/com/library_automation/dao/UsersDAO.java:75:	Avoid variables with short names like u
+src/com/library_automation/dao/UsersDAO.java:75:	Local variable 'u' could be declared final
+src/com/library_automation/dao/UsersDAO.java:79:	Avoid if (x != y) ..; else ..;
+src/com/library_automation/dao/UsersDAO.java:79:	Avoid unnecessary if..then..else statements when returning booleans
+src/com/library_automation/dao/UsersDAO.java:79:	Avoid using equals() to compare against null
+src/com/library_automation/dao/UsersDAO.java:80:	A method should have only one exit point, and that should be the last statement in the method
+src/com/library_automation/dao/UsersDAO.java:85:	A method should have only one exit point, and that should be the last statement in the method
+src/com/library_automation/dao/UsersDAO.java:98:	Parameter 'username' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:98:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:100:	Local variable 'authenticatedUser' could be declared final
+src/com/library_automation/dao/UsersDAO.java:110:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:112:	Local variable 'users' could be declared final
+src/com/library_automation/dao/UsersDAO.java:117:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:117:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:118:	System.out.println is used
+src/com/library_automation/dao/UsersDAO.java:120:	Local variable 'params' could be declared final
+src/com/library_automation/dao/UsersDAO.java:127:	Avoid variables with short names like id
+src/com/library_automation/dao/UsersDAO.java:127:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:127:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:128:	If you run in Java5 or newer and have concurrent access, you should use the ConcurrentHashMap implementation
+src/com/library_automation/dao/UsersDAO.java:128:	Local variable 'param' could be declared final
+src/com/library_automation/dao/UsersDAO.java:133:	Parameter 'user' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:133:	publicMethodCommentRequirement Required
+src/com/library_automation/dao/UsersDAO.java:134:	Local variable 'params' could be declared final
+src/com/library_automation/dao/UsersDAO.java:138:	Parameter 'username' is not assigned and could be declared final
+src/com/library_automation/dao/UsersDAO.java:138:	publicMethodCommentRequirement Required
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:5:	Avoid unused imports such as 'javax.servlet.RequestDispatcher'
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:13:	Each class should declare at least one constructor
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:13:	headerCommentRequirement Required
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:16:	Parameter 'arg2' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:16:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:16:	Parameter 'response' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:16:	publicMethodCommentRequirement Required
+src/com/library_automation/handler/MyAuthenticationFailureHandler.java:21:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:4:	Avoid unused imports such as 'java.util.Collection'
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:11:	Avoid unused imports such as 'org.springframework.beans.factory.annotation.Autowired'
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:13:	Avoid unused imports such as 'org.springframework.security.core.GrantedAuthority'
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:17:	Avoid unused imports such as 'com.library_automation.classes.User'
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:18:	Avoid unused imports such as 'com.library_automation.dao.UsersDAO'
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:20:	Each class should declare at least one constructor
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:20:	headerCommentRequirement Required
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:26:	Parameter 'authentication' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:26:	Parameter 'request' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:26:	Parameter 'response' is not assigned and could be declared final
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:30:	Local variable 'session' could be declared final
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:31:	Local variable 'authUser' could be declared final
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:31:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:32:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:32:	Potential violation of Law of Demeter (object not created locally)
+src/com/library_automation/handler/MyAuthenticationSuccessHandler.java:35:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/AuthorService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/AuthorService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/AuthorService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/AuthorService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/AuthorService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/AuthorService.java:13:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/AuthorService.java:13:	Avoid variables with short names like id
+src/com/library_automation/service/AuthorService.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/service/AuthorServiceImpl.java:13:	Each class should declare at least one constructor
+src/com/library_automation/service/AuthorServiceImpl.java:13:	headerCommentRequirement Required
+src/com/library_automation/service/AuthorServiceImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/AuthorServiceImpl.java:16:	fieldCommentRequirement Required
+src/com/library_automation/service/AuthorServiceImpl.java:19:	publicMethodCommentRequirement Required
+src/com/library_automation/service/AuthorServiceImpl.java:25:	Parameter 'author' is not assigned and could be declared final
+src/com/library_automation/service/AuthorServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/service/AuthorServiceImpl.java:33:	Avoid variables with short names like id
+src/com/library_automation/service/AuthorServiceImpl.java:33:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/service/AuthorServiceImpl.java:33:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/BookService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/BookService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/BookService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookService.java:13:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/BookService.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookService.java:15:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/BookService.java:15:	Avoid variables with short names like id
+src/com/library_automation/service/BookService.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:13:	Each class should declare at least one constructor
+src/com/library_automation/service/BookServiceImpl.java:13:	headerCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/BookServiceImpl.java:17:	fieldCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:20:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:26:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/service/BookServiceImpl.java:26:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:34:	Parameter 'book' is not assigned and could be declared final
+src/com/library_automation/service/BookServiceImpl.java:34:	publicMethodCommentRequirement Required
+src/com/library_automation/service/BookServiceImpl.java:41:	Avoid variables with short names like id
+src/com/library_automation/service/BookServiceImpl.java:41:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/service/BookServiceImpl.java:41:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/CategoryService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/CategoryService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/CategoryService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryService.java:12:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/CategoryService.java:12:	Avoid variables with short names like id
+src/com/library_automation/service/CategoryService.java:12:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryServiceImpl.java:12:	Each class should declare at least one constructor
+src/com/library_automation/service/CategoryServiceImpl.java:12:	headerCommentRequirement Required
+src/com/library_automation/service/CategoryServiceImpl.java:15:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/CategoryServiceImpl.java:15:	fieldCommentRequirement Required
+src/com/library_automation/service/CategoryServiceImpl.java:18:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryServiceImpl.java:24:	Parameter 'category' is not assigned and could be declared final
+src/com/library_automation/service/CategoryServiceImpl.java:24:	publicMethodCommentRequirement Required
+src/com/library_automation/service/CategoryServiceImpl.java:32:	Avoid variables with short names like id
+src/com/library_automation/service/CategoryServiceImpl.java:32:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/service/CategoryServiceImpl.java:32:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/PublisherService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/PublisherService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/PublisherService.java:11:	Avoid variables with short names like id
+src/com/library_automation/service/PublisherService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherService.java:13:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/PublisherService.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherServiceImpl.java:13:	Each class should declare at least one constructor
+src/com/library_automation/service/PublisherServiceImpl.java:13:	headerCommentRequirement Required
+src/com/library_automation/service/PublisherServiceImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/PublisherServiceImpl.java:16:	fieldCommentRequirement Required
+src/com/library_automation/service/PublisherServiceImpl.java:19:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherServiceImpl.java:25:	Avoid variables with short names like id
+src/com/library_automation/service/PublisherServiceImpl.java:25:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/service/PublisherServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/service/PublisherServiceImpl.java:33:	Parameter 'publisher' is not assigned and could be declared final
+src/com/library_automation/service/PublisherServiceImpl.java:33:	publicMethodCommentRequirement Required
+src/com/library_automation/service/ReservationService.java:5:	headerCommentRequirement Required
+src/com/library_automation/service/ReservationService.java:7:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/ReservationService.java:7:	publicMethodCommentRequirement Required
+src/com/library_automation/service/ReservationService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/ReservationService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/ReservationServiceImpl.java:11:	Each class should declare at least one constructor
+src/com/library_automation/service/ReservationServiceImpl.java:11:	headerCommentRequirement Required
+src/com/library_automation/service/ReservationServiceImpl.java:14:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/ReservationServiceImpl.java:14:	fieldCommentRequirement Required
+src/com/library_automation/service/ReservationServiceImpl.java:17:	Parameter 'reservation' is not assigned and could be declared final
+src/com/library_automation/service/ReservationServiceImpl.java:17:	publicMethodCommentRequirement Required
+src/com/library_automation/service/ReservationServiceImpl.java:25:	Parameter 'reservation' is not assigned and could be declared final
+src/com/library_automation/service/ReservationServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/SearchService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/SearchService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/SearchService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchService.java:13:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/SearchService.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchService.java:15:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/SearchService.java:15:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchService.java:18:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/SearchService.java:18:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:14:	Each class should declare at least one constructor
+src/com/library_automation/service/SearchServiceImpl.java:14:	The class 'SearchServiceImpl' has a Cyclomatic Complexity of 3 (Highest = 10).
+src/com/library_automation/service/SearchServiceImpl.java:14:	The class 'SearchServiceImpl' has a Modified Cyclomatic Complexity of 3 (Highest = 10).
+src/com/library_automation/service/SearchServiceImpl.java:14:	The class 'SearchServiceImpl' has a Standard Cyclomatic Complexity of 3 (Highest = 10).
+src/com/library_automation/service/SearchServiceImpl.java:14:	headerCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:17:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/SearchServiceImpl.java:17:	fieldCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:19:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/SearchServiceImpl.java:19:	Perhaps 'searchResult' could be replaced by a local variable.
+src/com/library_automation/service/SearchServiceImpl.java:19:	fieldCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:23:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:23:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:29:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:29:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:35:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:35:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:41:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:41:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:47:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:47:	The method 'getSearchResult' has a Cyclomatic Complexity of 10.
+src/com/library_automation/service/SearchServiceImpl.java:47:	The method 'getSearchResult' has a Modified Cyclomatic Complexity of 10.
+src/com/library_automation/service/SearchServiceImpl.java:47:	The method 'getSearchResult' has a Standard Cyclomatic Complexity of 10.
+src/com/library_automation/service/SearchServiceImpl.java:47:	publicMethodCommentRequirement Required
+src/com/library_automation/service/SearchServiceImpl.java:52:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/SearchServiceImpl.java:54:	Local variable 'book' could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:54:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/SearchServiceImpl.java:63:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/SearchServiceImpl.java:65:	Local variable 'book' could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:65:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/SearchServiceImpl.java:74:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/SearchServiceImpl.java:76:	Local variable 'book' could be declared final
+src/com/library_automation/service/SearchServiceImpl.java:76:	Potential violation of Law of Demeter (method chain calls)
+src/com/library_automation/service/UploadService.java:7:	headerCommentRequirement Required
+src/com/library_automation/service/UploadService.java:9:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/UploadService.java:9:	Avoid variables with short names like id
+src/com/library_automation/service/UploadService.java:9:	publicMethodCommentRequirement Required
+src/com/library_automation/service/UploadService.java:11:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/UploadService.java:11:	publicMethodCommentRequirement Required
+src/com/library_automation/service/UploadService.java:13:	Avoid modifiers which are implied by the context
+src/com/library_automation/service/UploadService.java:13:	publicMethodCommentRequirement Required
+src/com/library_automation/service/UploadServiceImpl.java:13:	Each class should declare at least one constructor
+src/com/library_automation/service/UploadServiceImpl.java:13:	headerCommentRequirement Required
+src/com/library_automation/service/UploadServiceImpl.java:16:	Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/com/library_automation/service/UploadServiceImpl.java:16:	fieldCommentRequirement Required
+src/com/library_automation/service/UploadServiceImpl.java:19:	Avoid variables with short names like id
+src/com/library_automation/service/UploadServiceImpl.java:19:	Parameter 'id' is not assigned and could be declared final
+src/com/library_automation/service/UploadServiceImpl.java:19:	publicMethodCommentRequirement Required
+src/com/library_automation/service/UploadServiceImpl.java:25:	Parameter 'upload' is not assigned and could be declared final
+src/com/library_automation/service/UploadServiceImpl.java:25:	publicMethodCommentRequirement Required
+src/com/library_automation/service/UploadServiceImpl.java:33:	Parameter 'title' is not assigned and could be declared final
+src/com/library_automation/service/UploadServiceImpl.java:33:	publicMethodCommentRequirement Required

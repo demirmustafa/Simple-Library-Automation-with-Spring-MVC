@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+.error{
+	font-size: small;
+	color: red;
+	margin-left: 10px;
+}
+
+
+.valid{
+	font-size: small;
+	color: green;
+	margin-left: 10px;
+}
